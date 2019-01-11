@@ -1,8 +1,0 @@
-baseURL = "http://example.org/"
-
-languageCode = "en-us"
-title = "קהילה להתפתחות משותפת"
-
-
-
-theme = "hugo-theme-techdoc-heb"
