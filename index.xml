@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>חיבור לקהילה ערכית on קהילה להתפתחות משותפת</title>
-    <link>http://example.org/</link>
+    <link>http://barak-haviv.github.io/</link>
     <description>Recent content in חיבור לקהילה ערכית on קהילה להתפתחות משותפת</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://barak-haviv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>קהילה וולונטרית</title>
-      <link>http://example.org/bk/1/</link>
+      <link>http://barak-haviv.github.io/bk/1/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>http://example.org/bk/1/</guid>
+      <guid>http://barak-haviv.github.io/bk/1/</guid>
       <description>הקהילה שלנו היא התארגנות וולונטרית לחלוטין של אנשים חופשיים, ריבוניים, ואוטונומיים. כלומר אף אחד לא חייב לעשות שום דבר בשום זמן. הקהילה מעודדת כל אחד להיות קשוב לעצמו, לרצונותיו ולגבולותיו, ולעשות אך ורק מה שהוא באמת רוצה (כמובן מתוך כיבוד הריבונות האישית של כל האחרים). בניגוד לרוב הקהילות הרוחניות, אצלנו לא מחייבים ולא מכריחים אף אחד לפעול בדרך מסויימת שהרוב או איזשהו &amp;ldquo;גורו&amp;rdquo; החליטו עליה. להפך - אנחנו מעודדים כל אחד למצוא את מסלול ההתפתחות הייחודי המתאים לו, לתרום מהיצירתיות שלו לקבוצה, להמשיך ולשכלל את כל הידע שהצטבר ואת הדרכים ליישם אותו.</description>
     </item>
     
     <item>
       <title>קהילה של התפתחות</title>
-      <link>http://example.org/bk/2/</link>
+      <link>http://barak-haviv.github.io/bk/2/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>http://example.org/bk/2/</guid>
+      <guid>http://barak-haviv.github.io/bk/2/</guid>
       <description>הקהילה שלנו היא קהילת התפתחות שמספקת מרחב בטוח ללימוד חווייתי והתנסות. לפעמים אנחנו תקועים בנושא מסוים בחיים, ואין לנו מקום בטוח שבו אנחנו יכולים לתרגל בו בהדרגתיות. לדוגמה, אם למישהו יש קושי להתחיל שיחות (על רקע רומנטי, או בכלל), והוא תקוע בדפוס הזה, הוא זקוק למקום שבו הוא לא ירגיש לחץ וקושי אלא מקום מכיל ותומך שבו הוא יכול לפתח בהדרגה את הכישורים שהוא זקוק להם, ואז להביא אותם לעולם האמיתי.</description>
     </item>
     
